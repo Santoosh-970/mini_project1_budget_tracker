@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 300,
+        "category": "saving",
+        "description": "safe future"
+    },
+    {
+        "amount": 50,
+        "category": "saving",
+        "description": "thekbey"
+    },
+    {
+        "amount": 4000,
+        "category": "grocery",
+        "description": "daruu"
+    }
+]
